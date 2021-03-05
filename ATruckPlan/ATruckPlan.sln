@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATruckPlan", "ATruckPlan\ATruckPlan.csproj", "{B252614A-D2DC-4272-8912-0BF8DEA31943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATruckPlan.Test", "ATruckPlan.Test\ATruckPlan.Test.csproj", "{C301C38E-2D37-4F84-89ED-3D96FAD3FB39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B252614A-D2DC-4272-8912-0BF8DEA31943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B252614A-D2DC-4272-8912-0BF8DEA31943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B252614A-D2DC-4272-8912-0BF8DEA31943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B252614A-D2DC-4272-8912-0BF8DEA31943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C301C38E-2D37-4F84-89ED-3D96FAD3FB39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C301C38E-2D37-4F84-89ED-3D96FAD3FB39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C301C38E-2D37-4F84-89ED-3D96FAD3FB39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C301C38E-2D37-4F84-89ED-3D96FAD3FB39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3C2B60D-9925-401A-ADBB-4CF46C5AFD67}
+	EndGlobalSection
+EndGlobal
