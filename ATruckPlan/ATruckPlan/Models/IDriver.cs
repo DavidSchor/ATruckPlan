@@ -2,7 +2,7 @@
 
 namespace ATruckPlan.Models
 {
-    internal interface IDriver
+    public interface IDriver
     {
         Guid EmployeeId { get; }
         DateTime BirthDate { get; set; }

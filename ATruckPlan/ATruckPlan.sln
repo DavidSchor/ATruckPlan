@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATruckPlan.Test", "ATruckPl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenStreetMapIntegration", "OpenStreetMapIntegration\OpenStreetMapIntegration.csproj", "{86145138-FCB5-4B4F-89F4-943031BF52FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenStreetMapIntegration.Test", "OpenStreetMapIntegration.Test\OpenStreetMapIntegration.Test.csproj", "{D2B792EC-2489-4A75-99E8-30ED1DFA2464}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{86145138-FCB5-4B4F-89F4-943031BF52FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86145138-FCB5-4B4F-89F4-943031BF52FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86145138-FCB5-4B4F-89F4-943031BF52FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B792EC-2489-4A75-99E8-30ED1DFA2464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B792EC-2489-4A75-99E8-30ED1DFA2464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B792EC-2489-4A75-99E8-30ED1DFA2464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B792EC-2489-4A75-99E8-30ED1DFA2464}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

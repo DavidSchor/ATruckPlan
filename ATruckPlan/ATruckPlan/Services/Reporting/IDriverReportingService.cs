@@ -3,8 +3,8 @@ using System.Collections.Generic;
 
 namespace ATruckPlan.Services.Reporting
 {
-    internal interface IDriverReportingService
+    public interface IDriverReportingService
     {
-        IList<IDriver> GetDriversByAge(int age);
+        IEnumerable<IDriver> GetDriversByAge(int age);
     }
 }
